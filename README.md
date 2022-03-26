@@ -10,7 +10,7 @@ Proyecto (código):
 ## Resumen
 
 
-### Personaje
+### Personajes
 
 ![](https://github.com/mgea/storytelling/blob/master/img-nobody.png)
 
