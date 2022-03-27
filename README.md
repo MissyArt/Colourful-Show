@@ -33,6 +33,7 @@ Nombre:
 
 ![bebeee](https://user-images.githubusercontent.com/101631822/160286289-4ae45c4b-7267-4719-a93f-d6d67a88a749.png)
 
+Emily, Félix, Frank y Mark.
 
 - Banner/Teaser:  (enlace) 
 
