@@ -12,8 +12,6 @@ Proyecto (código):
 
 ### Personajes
 
-![](https://github.com/mgea/storytelling/blob/master/img-nobody.png)
-
 Nombre: Emily, Félix, Frank y Mark.
 
 
