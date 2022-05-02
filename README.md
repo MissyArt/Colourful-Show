@@ -4,7 +4,7 @@
 
 Nombre del Equipo: 
 
-Proyecto (código): 
+Proyecto (código): A Colorful Show
 
 
 ## Resumen
