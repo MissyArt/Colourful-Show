@@ -19,11 +19,11 @@ Nombre: Emily, Félix, Frank y Mark.
 
 
 ### Contexto
-
+Año 2025. El conflicto de Ucrania ha terminado, llevando a una inevitable tercera Guerra Mundial de la cual NADIE sabe nada y la vida se lleva con total normalidad incluso en los Estados Unidos, que es donde transcurre la historia. Nuestros protagonistas (Felix, Emily, Mark y Frank) poco a poco verán indicios de que quizás, no todo va bien en sus vidas y tendrán que afrontar esta cruda realidad, además de decírsela al resto del mundo. Sin embargo, las cosas no son tan fáciles como uno podría pensar, pues, la CIA se ha percatado de que ellos podrían causar graves problemas para la tranquilidad del país.
 
 ### Conflicto 
 
-
+El principal conflicto se trata de que la CIA va a intentar hacer todo lo posible para que su plan de ocultar la tercera guerra mundial salga adelante, además de los conflictos de grupo. Pues, Frank a pesar de que las pruebas son contundentes no se va a creer tan fácil de que están en una guerra.
 
 ### Productos
 
